@@ -1,5 +1,6 @@
-### Hi there! Meu nome e Victor Felix
-Atualmente eu sou estudante de Analise e Desenvolvimento de Sistemas(ADS)
+### Olá você!👋 Meu nome e Victor Felix!
+Sou estudante do 2° período de Analise e desenvolvimento de Sistemas e entusiasta em programação e inteligência artificial, buscando sempre expandir meus conhecimentos em varias áreas como tecnologia e idiomas. 
+
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Felix-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,4 +14,5 @@ Atualmente eu sou estudante de Analise e Desenvolvimento de Sistemas(ADS)
 
 <div>
   <a href=https://www.linkedin.com/in/victor-porto-509062200/target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href=joaovictorporto2010@gmail.com="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
