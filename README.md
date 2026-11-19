@@ -15,5 +15,4 @@ Sou estudante do 2° período de Analise e desenvolvimento de Sistemas e entusia
 
 <div>
   <a href=https://www.linkedin.com/in/victor-porto-509062200/target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "joaovictorporto2010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
