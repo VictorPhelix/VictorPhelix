@@ -1,5 +1,5 @@
 ### Olá você!👋 Meu nome e Victor Felix!
-Sou estudante do 2° período de Analise e desenvolvimento de Sistemas e entusiasta em programação e inteligência artificial, buscando sempre expandir meus conhecimentos em varias áreas como tecnologia e idiomas. 
+Sou estudante do 2° período de Analise e desenvolvimento de Sistemas e entusiasta em programação e inteligência artificial, quero desenvolver habilidades em frontend, backend e banco de dados, estou buscando sempre expandir meus conhecimentos em varias áreas como tecnologia e idiomas. 
 
 ##
 
